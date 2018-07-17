@@ -22,6 +22,6 @@ public class Newclass {
 		
 		Assert.assertEquals(title,"Sign in to GitHub · GitHub");
 		
-		System.out.println("Continue to test.....");
+		System.out.println("Continue to test...");
 	}
 }

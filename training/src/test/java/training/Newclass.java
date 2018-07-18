@@ -39,6 +39,6 @@ public class Newclass {
 		
 		Assert.assertEquals(title,"GitHub");
 		
-		System.out.println("Continue to testing.........");
+		System.out.println("Continue to testing.......");
 	}
 	}
